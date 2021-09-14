@@ -1,3 +1,8 @@
+# Check how it was Created By Himal  \
+Fell free to clone and modify and let me know i also willing to see \
+https://awesome-react-todo-th.vercel.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
