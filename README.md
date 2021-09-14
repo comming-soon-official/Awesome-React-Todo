@@ -1,4 +1,4 @@
-# Check how it was Created By Himal
+# Check how it is
 # https://awesome-react-todo-th.vercel.app/ 
 
 
