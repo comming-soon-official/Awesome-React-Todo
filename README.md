@@ -1,7 +1,9 @@
-# Check how it was Created By Himal \
+# Check how it was Created By Himal
 # https://awesome-react-todo-th.vercel.app/ 
 
-Fell free to clone and modify and let me know i also willing to see :
+
+
+Fell free to clone and modify and let me know i also willing to see \
 
 
 
