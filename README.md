@@ -1,6 +1,10 @@
-# Check how it was Created By Himal  \
-Fell free to clone and modify and let me know i also willing to see \
-https://awesome-react-todo-th.vercel.app/
+# Check how it was Created By Himal \
+# https://awesome-react-todo-th.vercel.app/ 
+
+Fell free to clone and modify and let me know i also willing to see :
+
+
+
 
 
 # Getting Started with Create React App
