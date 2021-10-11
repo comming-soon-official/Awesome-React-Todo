@@ -13,7 +13,7 @@ Fell free to clone and modify and let me know i also willing to see \
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Available Scripts.
 
 In the project directory, you can run:
 
